@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+	<id>DigiPluginSharedLibraries</id>
+	<name>DigiPluginSharedLibraries</name>
+	<version>0.1</version>
+	<description>Shared Libraries for Digi Plugins</description>
+	<project>http://github.com/ezh/android-component-DigiSSHD</project>
+	<thumb>http://github.com/ezh/android-component-DigiSSHD/raw/master/src/resources/device-2012-02-12-183721.png</thumb>
+	<origin>Copyright © 2012 Alexey B. Aksenov/Ezh. All rights reserved.</origin>
+	<license>GPLv3</license>
+	<email>alexey.ezh@gmail.com</email>
+	<icon-hdpi>https://github.com/ezh/android-component-DigiSSHD/raw/master/res/drawable-hdpi/ic_launcher.png</icon-hdpi>
+	<icon-ldpi>https://github.com/ezh/android-component-DigiSSHD/raw/master/res/drawable-ldpi/ic_launcher.png</icon-ldpi>
+	<icon-mdpi>https://github.com/ezh/android-component-DigiSSHD/raw/master/res/drawable-mdpi/ic_launcher.png</icon-mdpi>
+	<icon-xhdpi>https://github.com/ezh/android-component-DigiSSHD/raw/master/res/drawable-xhdpi/ic_launcher.png</icon-xhdpi>
+	<github>https://github.com/downloads/ezh/android-component-DigiSSHD/DigiSSHD-0.1.05.apk</github>
+	<package-name>org.digimead.digi.ctrl.plugin.sharedlibraries</package-name>
+</manifest>
